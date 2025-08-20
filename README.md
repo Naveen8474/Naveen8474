@@ -42,13 +42,7 @@ Hi! I'm Naveen — a passionate Business & Data Analyst based in India. I enjoy 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen84931&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen84931&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
