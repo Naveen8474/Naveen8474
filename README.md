@@ -43,13 +43,12 @@ Hi! I'm Naveen — a passionate Business & Data Analyst based in India. I enjoy 
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen84931&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen84931&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
